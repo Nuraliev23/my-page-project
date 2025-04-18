@@ -22,7 +22,7 @@ let data = [
     img: img1card,
     name: "PT. ABCDE",
     job: "Web Development",
-    id: 2,
+    id: 1,
     status: true,
   },
   {
